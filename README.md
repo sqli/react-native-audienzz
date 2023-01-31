@@ -1,3 +1,13 @@
+# Librairie de publicité pour projet ESH Médias
+
+[Librairie Initiale](https://github.com/audienzz/react-native-audienzz)
+
+Création du repo sqli pour ajouter un fix de la librairie pour la rendre compatible avec use_frameworks! (requis à partir de react native firebase v15.0.0).
+
+Modification des imports de certains fichiers (<> en "").
+
+Une issue a été ouverte sur leur repos à ce sujet.
+
 # React Native Audienzz Library (AppNexus)
 
 React Native implementation of the AppNexus SDK (TypeScript).
