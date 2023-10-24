@@ -2,11 +2,15 @@
 
 [Librairie Initiale](https://github.com/audienzz/react-native-audienzz)
 
-Création du repo sqli pour ajouter un fix de la librairie pour la rendre compatible avec use_frameworks! (requis à partir de react native firebase v15.0.0).
+Création du repo sqli pour enlever le SDK RoboElectric (plus accepté par Google Play) et ajouter un fix de la librairie pour la rendre compatible avec use_frameworks! (requis à partir de react native firebase v15.0.0). 
+
+Ces derniers modifications ont déjà été ajoutés dans les versions 0.5.3 et 0.5.4 de la librairie originale, cependant, sur l'un de nos projets la navigation devient sacadée avec les versions entre la 0.5.0 et la 0.5.4. 
+
+Nous sommes donc revenu à la version 0.4.2 de cet repo, qui compte déjà avec le fix pour être utilisée avec use_frameworks, et nous avons retiré le SDK de RoboElectric de la librairie.
 
 Modification des imports de certains fichiers (<> en "").
 
-Une issue a été ouverte sur leur repos à ce sujet.
+Une issue a été ouverte sur leur repos à ces deux sujet.
 
 # React Native Audienzz Library (AppNexus)
 
